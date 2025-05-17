@@ -1,11 +1,11 @@
 
- Cloud Architect | DevOps Enthusiast | Infrastructure as Code Advocate
+ Cloud Architect | DevOps Enthusiast | Infrastructure as Code Advocate|Python | linux
 
 Designing scalable, secure, and resilient cloud solutions across AWS, Azure & GCP.
 🔧 Passionate about automation, CI/CD, Kubernetes, and serverless architecture.
 📦 Open-source contributor | Terraform & Ansible practitioner
 🛡️ Cloud Security & Cost Optimization advocate
-📍Currently building [insert brief project or focus area]
+📍Currently building **Smart traffic management** using python,node.js,sql,bash
 
 Let's connect, collaborate, and create the future of cloud!
 
