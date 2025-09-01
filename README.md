@@ -1,5 +1,5 @@
 
- Cloud Architect | DevOps Enthusiast | Infrastructure as Code Advocate|Python | linux
+ Cloud Architect | DevOps Enthusiast | Infrastructure as Code Advocate|Python | linux |Full Stack
 
 Designing scalable, secure, and resilient cloud solutions across AWS, Azure & GCP.
 🔧 Passionate about automation, CI/CD, Kubernetes, and serverless architecture.
